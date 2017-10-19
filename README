@@ -1,0 +1,10 @@
+EZPZ
+
+`node proxy.js`
+
+That's all.  
+
+Oh yeah!
+You'll want to specify the urls for this one and for the destination.
+And you may not want to add CSP Headers.  But you're smart... 
+You'll figure it out!

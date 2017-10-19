@@ -1,0 +1,11 @@
+{
+  "name": "reverse-proxy",
+  "version": "1.0.0",
+  "description": "Reverse proxy with no dependencies.  Made to add Content-Security-Policy headers without modifying an existing server configuration.",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J Davis",
+  "license": "MIT"
+}
